@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.interpolator:interpolator:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2cee458f34ccb06a6a36771c974ab8a0/transformed/interpolator-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../gradle_android_studio/caches/transforms-3/2cee458f34ccb06a6a36771c974ab8a0/transformed/interpolator-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../gradle_android_studio/caches/transforms-3/2cee458f34ccb06a6a36771c974ab8a0/transformed/interpolator-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../gradle_android_studio/caches/transforms-3/2cee458f34ccb06a6a36771c974ab8a0/transformed/interpolator-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2ec81871c152e69f6d0ec15ea56de76c/transformed/interpolator-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/53af5b04504554520ec0626f4f3fd6e1/transformed/interpolator-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/79e119c81d7d5c186f71a07f38492331/transformed/interpolator-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a9ab6527ff6f639764f0e2de2cd89745/transformed/interpolator-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a9ab6527ff6f639764f0e2de2cd89745/transformed/interpolator-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a9ab6527ff6f639764f0e2de2cd89745/transformed/interpolator-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../gradle_android_studio/caches/modules-2/files-2.1/androidx.interpolator/interpolator/1.0.0/fefd5e3cbc479b6b4a9532d05688a1e659e8d3d2/interpolator-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.interpolator/interpolator/1.0.0/fefd5e3cbc479b6b4a9532d05688a1e659e8d3d2/interpolator-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

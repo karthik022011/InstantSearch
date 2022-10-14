@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.tracing:tracing:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0c5951f68fe070c88ae3ded656a7865f/transformed/tracing-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../gradle_android_studio/caches/transforms-3/0c5951f68fe070c88ae3ded656a7865f/transformed/tracing-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../gradle_android_studio/caches/transforms-3/0c5951f68fe070c88ae3ded656a7865f/transformed/tracing-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../gradle_android_studio/caches/transforms-3/0c5951f68fe070c88ae3ded656a7865f/transformed/tracing-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9bcfd13e6b946bec3801a597d303f7f2/transformed/tracing-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fb78f6788b2caa29df97f36ad98d2432/transformed/tracing-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3c27af2e3c8f08d7825f986c8b87b7d7/transformed/tracing-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/59443a20922342d1129eeca646cb5d0f/transformed/tracing-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/59443a20922342d1129eeca646cb5d0f/transformed/tracing-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/59443a20922342d1129eeca646cb5d0f/transformed/tracing-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../gradle_android_studio/caches/modules-2/files-2.1/androidx.tracing/tracing/1.0.0/aa6dafdce323d80a993c5427cf81d5072f023c8c/tracing-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.tracing/tracing/1.0.0/aa6dafdce323d80a993c5427cf81d5072f023c8c/tracing-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

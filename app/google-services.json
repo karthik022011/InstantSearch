@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562798132910",
+    "project_id": "jenkins-demo-cfca3",
+    "storage_bucket": "jenkins-demo-cfca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562798132910:android:ad5a4ea02b8336eda4b73f",
+        "android_client_info": {
+          "package_name": "com.karthik.instantsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562798132910-r120cesropg9a3h8suq3960h9qnfi4rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLlQ8BOLfIiT9siHRkEAXcx-qQOZKcO3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562798132910-r120cesropg9a3h8suq3960h9qnfi4rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
