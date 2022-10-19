@@ -33,14 +33,7 @@ internal class ImageDetailScreenTest {
         assertNotNull(activity)
     }
 
-    /*@Test
-    @Throws(java.lang.Exception::class)
-    fun testButtonClickShouldShowToast() {
-        val view: Button = activity.findViewById(R.id.buttonSh) as Button
-        assertNotNull(view)
-        view.performClick()
-        assertThat(ShadowToast.getTextOfLatestToast(), equalTo("Lala"))
-    }*/
+
 
     @Test
     @Throws(java.lang.Exception::class)
